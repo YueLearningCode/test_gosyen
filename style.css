@@ -1,0 +1,74 @@
+/* Desain CSS untuk Form Login*/
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24;
+}
+
+.icon-large {
+    font-size: 32px;
+}
+
+/* Custom Input Styling */
+.custom-input {
+    flex: 1;
+    width: 100%;
+    min-width: 0;
+    resize: none;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    border: 1px solid #d1d5db;
+    background-color: var(--tw-bg-opacity);
+    padding: 1rem;
+    height: 3.5rem;
+    transition: all 0.2s ease;
+}
+
+/* Custom Button */
+.btn-login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 3.5rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    background-color: #6F4E37;
+    color: white;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+.btn-login:hover {
+    background-color: #3B2F2F;
+}
+
+.dark .btn-login {
+    background-color: #cf7317;
+}
+
+.dark .btn-login:hover {
+    background-color: #cf7317cc;
+}
+
+.btn-login { background-color: #6F4E37 !important; }
+.btn-login:hover { background-color: #3B2F2F !important; }
+
+/* Desain CSS untuk Dashboard*/
+
+.material-icons-outlined {
+  font-size: 20px;
+}
+
+
+/* Desain CSS untuk Form Login*/
+/* Desain CSS untuk Form Login*/
+/* Desain CSS untuk Form Login*/
+/* Desain CSS untuk Form Login*/
+/* Desain CSS untuk Form Login*/
+/* Desain CSS untuk Form Login*/
+/* Desain CSS untuk Form Login*/
+/* Desain CSS untuk Form Login*/
